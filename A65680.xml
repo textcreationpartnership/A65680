@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A justification of the paper, entituled, A short history of the life and death of the act made in the 35th of Eliz. Cap. I, &amp;c. containing some observations on that part of the Gazett (published 21th of April last) which asserts the contrary : wherein it doth plainly appear (notwithstanding what is therein alledged) that the said act of the 35th of Eliz. and the Conventicle Act of the 16th of the King, are not in being, nor hath the force of a law / by the same author.</title>
+            <author>Whitaker, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65680</idno>
+            <idno type="STC">Wing W1703</idno>
+            <idno type="STC">ESTC R8906</idno>
+            <idno type="EEBO-CITATION">11983668</idno>
+            <idno type="OCLC">ocm 11983668</idno>
+            <idno type="VID">51916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 523:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A justification of the paper, entituled, A short history of the life and death of the act made in the 35th of Eliz. Cap. I, &amp;c. containing some observations on that part of the Gazett (published 21th of April last) which asserts the contrary : wherein it doth plainly appear (notwithstanding what is therein alledged) that the said act of the 35th of Eliz. and the Conventicle Act of the 16th of the King, are not in being, nor hath the force of a law / by the same author.</title>
+                  <author>Whitaker, Edward.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.A. and published by R. Januway [Janeway] ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Whitaker. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitaker, Edward. --  Short history of the life and death of an act made in the 35th of Eliz.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51916:1"/>
+            <pb facs="tcp:51916:1" rendition="simple:additions"/>
+            <p>A JUSTIFICATION Of the Paper, Entituled, A ſhort Hiſtory OF THE LIFE and DEATH OF THE Act made in the <hi>35th</hi> of <hi>Eliz.</hi> Cap. 1, <hi>&amp;c.</hi> Containing SOME OBSERVATIONS ON That Part of the GAZETT (Publiſhed 21th of <hi>April</hi> laſt) which aſſerts the Contrary. WHEREIN It doth plainly appear (notwithſtanding what is therein alledg<g ref="char:EOLhyphen"/>ed) That the ſaid Act of the <hi>35th</hi> of <hi>Eliz.</hi> and the Conven<g ref="char:EOLhyphen"/>ticle Act of the <hi>16th</hi> of this King, are not in being, nor hath the force of a Law. By the ſame Author.</p>
+            <p>
+               <hi>LONDON. Printed for</hi> B. A. <hi>and Publiſhed by</hi> Richard Januway <hi>in</hi> Queens-Head-alley <hi>in</hi> Pater-Noſter-Row. 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51916:2"/>
+            <pb n="1" facs="tcp:51916:2"/>
+            <head>A VINDICATION Of the Paper Intituled <hi>A Short Hiſtory of the Life and Death of the Act made the 35th of</hi> Eliz. Cap. 1. BEING A Reply to the Gazett Publiſhed the 21th. of <hi>April</hi> laſt paſt.</head>
+            <head type="sub">Wherein it doth plainly appear, notwithſtanding what is there<g ref="char:EOLhyphen"/>in alledged, That the ſaid Act of the 35th of <hi>Eliz.</hi> and the Conventicle Act of the 16th of this King, are not in Being, nor hath the force of a Law.</head>
+            <byline>By the ſame Author.</byline>
+            <p>THE Author hath the ſame to ſay (and as juſtly) for himſelf, as the Writer of the <hi>Gazett. That his Intentions are, and were to undeceive His Majeſties Loyal Subjects.</hi>
+            </p>
+            <p>And therefore he makes no other Excuſe or Apology for himſelf in ſearching into this Affair. The <hi>Gazett</hi> aſſerts, <hi>That the Act among others of the 35th of</hi> Elizabeth <hi>was continued the firſt of King</hi> James <hi>until the firſt Seſſions of the next Parliament, which agrees with the Author's Aſſertion, then he tells us there were four Seſſions in that Parliament, the laſt whereof ended in the 7th of K.</hi> James, <hi>which does not at all diſagree with the Author.</hi>
+            </p>
+            <p>But the <hi>Gazett</hi> goes on further, <hi>viz. But the Act was to continue to the firſt Seſſion of the next Parliament; and though every Seſſions to ſome purpoſes be as a ſeveral Parliament, yet it is no ſuch Parliament which can have a firſt Seſſions, and is never in Acts of Parliament ſti<g ref="char:EOLhyphen"/>led the next Seſſions;</hi> which is very fairly expreſſed, and undoubt<g ref="char:EOLhyphen"/>edly it may be ſo as he hath put it, that to ſome purpoſes be as a ſeve<g ref="char:EOLhyphen"/>ral Parliament upon Prorogations ending ſtill every Seſſions. And I be<g ref="char:EOLhyphen"/>lieve alſo it hath been a doubt heretofore among Lawyers, whether a Prorogued Parliament be not as a New Parliament; however admitting it to be otherwiſe, that it muſt be a New Parliament that muſt diſcon<g ref="char:EOLhyphen"/>tinue the Act of the 35th of <hi>Elizabeth;</hi> yet I conceive the matter de<g ref="char:EOLhyphen"/>pends not there for this Reaſon. He admits, and it is owned on all
+<pb n="2" facs="tcp:51916:3"/>hands, as well as by the Records, That the Parliament of the firſt of K. <hi>James</hi> did end the ſeventh of K. <hi>James,</hi> and then a New one was called the 12th of K. <hi>James,</hi> which as he tells us, did nothing ſo that the continuing Act continued to another Seſſions, which Seſſions began and ended in the 18th of K. <hi>James,</hi>
+               <note place="margin">See 18 <hi>Jac.</hi> the 3d Re<g ref="char:EOLhyphen"/>cord, but not in the Rolls a<g ref="char:EOLhyphen"/>mong the reſt of the Acts.</note> and paſſed two Bills, as he grants it, and as in truth it is upon Record: Now if it be ſo that any Acts were made in this Parliam. of the 18. of K. <hi>James,</hi> as undoubtedly they were, then that muſt be called a Seſſions of Parliament, and ſuch a Seſſions as the 1. of K. <hi>James</hi> mentions to be continued to the firſt Seſſions of the next Parliament; and this Seſſion of the 18 of K. <hi>James,</hi> making no continuance of the 35th of <hi>Eliz.</hi> it muſt inevitably follow to be wholly expired, and as if the ſame had never been made.</p>
+            <p>And as the <hi>Gazett</hi> tells us, the Judges did give their Opinion, that it was not in force, it is agreed.</p>
+            <p>But now ſee what the Parliam.<note place="margin">See Roll 21 <hi>Jac.</hi> cap. 18. ſect. 1.</note> did in the 21th of K. <hi>James,</hi> among other Acts they intended to continue and revive, they enact, <hi>viz</hi>) <hi>Shall by virtue of this Act be adjudged ever ſince the Seſſion of Parliament in the 7th of His Majeſties Reign of</hi> England, <hi>to have been of ſuch force and effect as the ſame were the laſt day of that Seſſion, and from thenceforth until the end of the firſt Seſſion of the next Parliament.</hi>
+            </p>
+            <p>Which words, the <hi>Gazett</hi> would make us believe, is a Reviver of the Act of the 35th of <hi>Eliz.</hi> but by his good leave, and with ſubmiſſi<g ref="char:EOLhyphen"/>on to better Judgment, it cannot be for this Reaſon.</p>
+            <p>If in the 18. <hi>Jacobi,</hi> it was wholly dead, as is moſt clear, then nothing but an abſolute Reviver could ſet it up again, and this is none but only a continuance of ſome thing ſuppoſed to be in being; now this was not in being 18. <hi>Jacobi</hi> although it might be 7. <hi>Jacobi.</hi> And therefore there want<g ref="char:EOLhyphen"/>ing the word Reviver, I conceive did not reach the point; for nothing but Reviver can inforce a dead Act, and declaring it in force will not do,<note place="margin">21. <hi>Jac.</hi> cap. 28. ſect. 8.9.10.</note> if really it were otherwiſe. And to confirm this Opinion in the ve<g ref="char:EOLhyphen"/>ry ſame Act of 21 <hi>Jac.</hi> afterwards in Section 8, 9, 10. mention is made of ſeveral Statutes to be revived, which I have ſet down at large.</p>
+            <p>Viz. <hi>And be it alſo enacted, That one part of a Statute made in the</hi> 25th <hi>year of the Reign of the late King</hi> Henry <hi>the</hi> 8th, <hi>Entituled an Act for the Reduction of Wild Fowl, which was repealed by a later Act made in the Parliament holden in the</hi> 3d <hi>and 4th years of the Reign of the late King</hi> Edward <hi>the</hi> 6th, <hi>ſhall be revived and ſtand in force until the end of the firſt Seſsion of the next Parliament.</hi>
+            </p>
+            <p>
+               <hi>And be it alſo Enacted, That one Act made in the firſt year of the late Queen</hi> Mary, <hi>for and concerning the making, repairing and amend<g ref="char:EOLhyphen"/>ing the common high-way, Cauſway in the Counties of</hi> Dorſet <hi>and</hi> Somer<g ref="char:EOLhyphen"/>ſet, <hi>between the Towns of</hi> Shaftesbury <hi>and</hi> Sherborn <hi>in the County of</hi> Dor<g ref="char:EOLhyphen"/>ſet <hi>be revived and ſtand in force until the and of the firſt Seſſion of next Parliament.</hi>
+            </p>
+            <p>Beſides Preſidents there are abundance more in the Statute Book all along, which ſhew that ſuch Statutes which were either repealed or expired, was always ſet up again by Reviver in expreſs Terms, judging and declaring their continuance of ſuch Laws when once dead being never thought ſufficient to revive, which is the preſent caſe.</p>
+            <p>And the Reaſon given is becauſe there is a difference between conti<g ref="char:EOLhyphen"/>nuing of a Law, that was never out of being, and the ſetting up a dead Law, as in this caſe.</p>
+            <pb n="3" facs="tcp:51916:3"/>
+            <p>And that this Law of the 35 of <hi>Eliz.</hi> was held to be void as 20 <hi>Jac.</hi> appears by good Authority in our Law-books.<note place="margin">
+                  <hi>Huttons</hi> re<g ref="char:EOLhyphen"/>port, 61 and 62. in the 20 <hi>Jac.</hi>
+               </note>
+            </p>
+            <p>Now there was no other ſetting up of this Statute of 35 of <hi>Eliz.</hi> from 21 <hi>Jac.</hi> to 3 <hi>Car. primi,</hi> than what is expreſſed in 3 <hi>Car. pri. cap.</hi> 4 which expreſſes thus, (<hi>viz.</hi>) <hi>Shall continue in force until the end of the firſt Seſſions of the next Parliament.</hi>
+               <note place="margin">3 <hi>Car. pri.</hi> cap. 4. ſect. 22.</note>
+            </p>
+            <p>But admit all that hath been ſaid before, were of no value at all, how can the Perſon that writes the <hi>Gazett</hi> think or imagine that he hath really anſwered the point, when it is plain he hath only touched upon one part of that Pamphlet, as he calls it, and not given one word of Anſwer to the other, which is the latter part of the Argument in the Hiſtory? but inſtead of medling with that, ſlides over the mat<g ref="char:EOLhyphen"/>ter, and tells the World, that the act againſt Conventicles made the <hi>22d</hi> of the King, is ſtill in force, though the Act made in the 16 be ex<g ref="char:EOLhyphen"/>pired; truly I think if ever he read over the Pamphlet (as he terms it) he cannot find any thing in it did aſſert, that the Act of the 22 of this King againſt Conventicles was not in force, ſo that he might have ſpared himſelf that labour.</p>
+            <p>On the other hand I am as ſure, that in that Act made the <hi>22d</hi> of this King againſt Conventicles which is perpetual, has no manner of reference to that of the 35 of <hi>Eliz.</hi> or to that Conventicle Act made the 16 year of this King; for there is not the leaſt mention made of either by this laſt Conventicle Act as the Reader may pleaſe to ſee at his Leiſure</p>
+            <p>But ſince he hath been pleaſed not to touch upon this part for the ſatisfaction of His Majeſties, Loyal Subjects, and to clear the doubt if there be any,<note place="margin">See Hiſtory p. 7.</note> I would deſire that he or any other perſon will but con<g ref="char:EOLhyphen"/>ſider again the <hi>7th page</hi> of the ſhort Hiſtory of the Life and Death of the <hi>35th</hi> of <hi>Eliz.</hi> and compare the ſame with the Act againſt Conven<g ref="char:EOLhyphen"/>ticles made the <hi>16th</hi> of this King, which is alſo ſet down in the ſame Paper and page, and conſider them well together, eſpecially this point following which is his.</p>
+            <p>From the 3. <hi>Car. pri.</hi> to 16. <hi>Car. pri.</hi> as before is expreſſed,<note place="margin">See 16 <hi>Car. pri.</hi> cap. 4. reſiſted in the Hiſtory.</note> there is no mention of the 35 of <hi>Eliz.</hi> but in the ſaid <hi>16th</hi> an Act paſſed (viz.) <hi>And be it Enacted by the Authority aforeſaid, That the paſsing of this preſent Act or any other Act or Acts, o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> His Majeſties Royal Aſſent to them or any of them in this preſent Seſsions of Parliament, ſhall not be any determination of the ſaid Seſsion, and that all Statutes and Acts of Parliament made in the</hi> 3d <hi>year of the Reign of His Majeſty that now is, Entiruled an Act for the Continuance and Repeal of divers Sta<g ref="char:EOLhyphen"/>tutes continued until the end of the firſt Seſsion of the then next Parlia<g ref="char:EOLhyphen"/>ment, ſhall by vertue of this Act, be adjudged ever ſince the Seſsions of Parliament in the ſaid</hi> 3d <hi>year to have been of ſuch force and effect at the ſame were the laſt day of that Seſsion, &amp; from thence forth,<note place="margin">☜</note> Vntil ſome other Act of Parliament be made touching the continuance or diſcontinuance of the ſaid Statutes and Acts in the ſaid Act of the</hi> 3d <hi>year of His Ma<g ref="char:EOLhyphen"/>jeſties Reign continued as aforeſaid.</hi>
+               <note place="margin">1. <hi>Car. pri.</hi> cap. 4.</note>
+            </p>
+            <p>Now let the Reader obſerve, that this Act wherein the 35 of <hi>Eliz.</hi> was one among the reſt mentioned, to be and continue until ſome other Act were made (touching the continuance or diſcontinuance of the ſame) was according to ſuch Interpretation explained and touched upon in the
+<pb n="4" facs="tcp:51916:4"/>Act of Parliament mentioned in the 16 of this King, in which Act of the 16 of this King called the Conventicle Act as in the Hiſtory is hin<g ref="char:EOLhyphen"/>ted that Parliament doth declare in the Conventicle Act then made that the 35 of <hi>Eliz.</hi> ſhall be in force and put in due Execution for ſuch and ſuch reaſons as in the Act is expreſſed, but for how long, why it is moſt plain to the end of the next Seſſions of Parliament, and then for Three Years, and from thence to the end of the next Seſſions of Parlia<g ref="char:EOLhyphen"/>ment, which was finiſhed in the 22d of this King, and no longer ſaith the Act plainly except the Reader will take one part of the Conventicle Act to be for ever and the other part to be for the time fixed, which is a plain contradiction, it being but one entire Act, and to give the due ex<g ref="char:EOLhyphen"/>poſition of an Act muſt be to take the whole together, and the conclu<g ref="char:EOLhyphen"/>ding part certainly binds up all; there was the then continuance and diſ<g ref="char:EOLhyphen"/>continuance mentioned in 16 <hi>Car. pri.</hi>
+            </p>
+            <p>And it cannot be thought that any one will aver, That the declaring part of this Act of 16 <hi>Car.</hi> 2d ſhall be for ever, when all the reſt of the Act was to be but for a time; neither can any one believe that we ſhould go back to 3 <hi>Car. primi,</hi> after this Act had brought it forward to the end of this Conventicle Act. And if the Reader will give himſelf the trouble but to compare the 35th of <hi>Eliz.</hi> with this Con<g ref="char:EOLhyphen"/>venticle Act, he will find that they were both abſolutely Conventicle Acts, and no other, and being ſo joyned, was never meant or intended to be parted.</p>
+            <p>This then I take to be the Caſe upon the whole matter, that if the continuing and adjudging in 21 <hi>Jac.</hi> was well continued, and ſo in <hi>Car. pri.</hi> well continued as is before ſet down, until ſome good Lawyer does declare it, I cannot but make a great doubt thereof, yet certainly this Act of 16 <hi>Carol. ſecund.</hi> doth according to the true meaning of 16 <hi>Carol. prmii.</hi> both continue and diſcontinue the 35th of <hi>Eliz.</hi> and the ſame cannot again go back to 16 <hi>Carol. pri.</hi> after the expiration of the Conventicle Act of 16 <hi>Car.</hi> 2d.</p>
+            <p>But the Objection which is expected to be made is this, that the de<g ref="char:EOLhyphen"/>claring and adjudging to be continued the Act of the 35 of <hi>Eliz.</hi> in King <hi>James,</hi> and King <hi>Charles</hi> the Firſt times is as good as an enacting clauſs to revive the ſame.</p>
+            <p>To which I anſwer, if that be ſo, then I hope the ſame declaring clauſe in 16 <hi>Carol. ſecun.</hi> in the Conventicle Act, is a good enacting clauſe too, and if that be an enacting clauſe, then it fully anſwers the intent and meaning of 16 <hi>Carol. primi,</hi> which ſaith ſuch Acts ſhall con<g ref="char:EOLhyphen"/>tinue only until ſome other Act be made touching the continuing or diſcontinuing of the ſame, ſo that take it either way it comes to the ſame end which is a ceaſing and expiration of the 35 of <hi>Eliz.</hi> by the ſaid Conventicle Act of 16 <hi>Car. ſecun.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="5" facs="tcp:51916:4"/>
+            <head>POSTCRIPT.</head>
+            <p>BEcauſe it is ſo poſitively aſſerted, that the Parliament <hi>primi Jac.</hi> and the P. 3. <hi>Jacob.</hi> was one and the ſame Parliament, I will not undertake to determine, but refer the Reader to theſe two Copies of the Record, which I atteſt to be truly compared.</p>
+            <p>
+               <hi>In Parliamento inchoat. tent. apud Weſtm. decimo nono die Martii Anno Regni ſereniſſimi atque excellentiſſimi Dom. nostri Jacobi, Dei gra. Ang. Scotiae, Franciae &amp; Hiberniae Regis, Fidei Defenſoris, &amp;c. viz. Angl. Franc. &amp; Hiberniae primo, &amp; Scotiae triceſſimo ſeptimo, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ibidem continuat. uſque ad in ſeptimum diem Julii tunc Prox. ſequent. &amp; prorogat. uſque ad in ſeptimum diem Februarii prox. ſequent. coram omn. Dom. tam ſpiritual. quam temporal. &amp; Communitatis conſenſu &amp; Reg. Majeſtatis tunc praeſentis aſſenſu inter alia ſancit. inactitat. ordi<g ref="char:EOLhyphen"/>nat. &amp; stabilit. fuerunt ſequent, haec Statuta ad verbum ut ſequitur, videlicet.</hi>
+            </p>
+            <p>
+               <hi>In Parliamento inchoat. &amp; tent. per prorogationem apud Westm. quinto die Novembris Anno Regni ſereniſſimi atque excellentiſſimi Dom. nostri Jacobi Dei gratia, Ang. Sco. Fra. &amp; Hib. Regis, Fidei Defenſo<g ref="char:EOLhyphen"/>ris, &amp;c. videlicet Angl. Fran. &amp; Hib. tertio, &amp; Sco. triceſſimo nono, atque ibid, continuato uſque ad &amp; in viceſſimum ſeptem diem Maii, tunc prox. ſequentis coram omnibus Dom. tam ſpiritual. quam temporal. &amp; Com<g ref="char:EOLhyphen"/>munitatis conſenſu &amp; Reg. Majestatis tunc praeſentis aſſenſu inter alia ſancita, inactitata, ordinata, &amp; Stabilita fuerunt ſequentia haec Statuta ad verbum ut ſequitur.</hi>
+            </p>
+            <p>If theſe two Records be adjudged to be but one and the ſame Parli<g ref="char:EOLhyphen"/>ament, it is certainly the firſt Parliament that ever had two ſeveral Commencements, beſides a diſtinct Prorogation, which has no cohe<g ref="char:EOLhyphen"/>rence, and is a new tract from all other Parliaments.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
